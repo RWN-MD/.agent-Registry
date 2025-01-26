@@ -1,7 +1,7 @@
 # .agent Registry
 
 ## Introduction
-The `.agent Registry` is a core component of the [Agentic Network](https://github.com/RWN-MD/AgenticNetwork.git) project, designed to manage the registration and administration of `.agent` domains. This sub-repository focuses on the technical infrastructure and backend services required to operate the `.agent` top-level domain (TLD) efficiently and securely.
+The `.agent Registry` is a core component of the [Agentic Network](https://github.com/RWN-MD/Agentic-Network.git) project, designed to manage the registration and administration of `.agent` domains. This sub-repository focuses on the technical infrastructure and backend services required to operate the `.agent` top-level domain (TLD) efficiently and securely.
 
 ## Role in the Agentic Network
 The `.agent Registry` plays a foundational role in enabling the Agentic Network’s vision of creating a secure and structured digital ecosystem for agent-only communication. It handles the lifecycle of `.agent` domains, from registration and renewal to integration with DNS and WHOIS services. 
